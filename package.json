@@ -1,0 +1,19 @@
+{
+  "name": "keepermentoring",
+  "version": "1.0.0",
+  "description": "멘토링 회원가입 암호화 구현",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pipisebastian/KeeperMentoring.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pipisebastian/KeeperMentoring/issues"
+  },
+  "homepage": "https://github.com/pipisebastian/KeeperMentoring#readme"
+}
